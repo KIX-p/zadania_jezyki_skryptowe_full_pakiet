@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+tmp/
+narzedzia/
+*.pdf
+rozwiazania_laboratoria_3_4_5.zip
+

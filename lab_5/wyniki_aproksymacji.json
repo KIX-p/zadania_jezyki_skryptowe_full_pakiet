@@ -1,0 +1,19 @@
+{
+  "records": 249,
+  "first_date": "2025-01-02",
+  "last_date": "2025-12-30",
+  "first_close": 2227.13,
+  "last_close": 3184.02,
+  "p_scaled": [
+    65.09230726207826,
+    -55.05050552124689,
+    65.92570693520733,
+    2835.3324983665116
+  ],
+  "mu": [
+    179.77510040160644,
+    103.93987494372163
+  ],
+  "rmse": 74.81259400324365,
+  "chart_engine": "Python/Matplotlib; obliczenia NumPy, równoważna metoda Octave"
+}

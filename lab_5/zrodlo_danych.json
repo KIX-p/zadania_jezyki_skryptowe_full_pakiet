@@ -1,0 +1,15 @@
+{
+  "source_file": "C:\\Users\\pashk\\Downloads\\wig20.csv",
+  "provider_as_assigned": "Stooq",
+  "interval": "daily",
+  "requested_period": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "records": 249,
+  "first_record": "2025-01-02",
+  "last_record": "2025-12-30",
+  "sha256": "b95f0a7107c958f17b159c089c7958034e5b68d91f9c31e1a22c2c61743d19cb",
+  "identical_copy": true,
+  "note": "CSV dostarczony przez uzytkownika; bez filtrowania ani modyfikacji rekordow."
+}
